@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: white;
+    
+}
+h1{
+    color: rgb(121, 127, 121);
+     font-family: "Kalnia Glaze", serif;
+    padding: 1px ;
+    display: flex;
+    justify-content: center;
+    font-size:x-large;
+
+}
+.newh1{
+    color: rgb(160, 171, 180);
+}
+
